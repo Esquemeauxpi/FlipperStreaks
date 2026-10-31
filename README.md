@@ -12,6 +12,7 @@ real shared map (add machines, leave comments, submit high scores).
    Maven Central (this environment couldn't reach those repos to verify
    a build, so double-check version numbers still resolve when you sync).
 3. Run on a device/emulator with API 26+.
+4. IMPORTANT:  Anyone who clones this will need to add their own MAPBOX_ACCESS_TOKEN to local.properties to build
 
 ## Architecture
 
